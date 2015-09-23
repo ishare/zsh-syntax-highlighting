@@ -18,7 +18,7 @@ How to install
 
 * Download the script or clone this repository:
 
-        git clone git://github.com/zsh-users/zsh-syntax-highlighting.git
+        git clone git://github.com/ishare/zsh-syntax-highlighting.git
 
 * Source the script **at the end** of `~/.zshrc`:
 
@@ -34,7 +34,7 @@ How to install
 * Download the script or clone this repository in [oh-my-zsh](http://github.com/robbyrussell/oh-my-zsh) plugins directory:
 
         cd ~/.oh-my-zsh/custom/plugins
-        git clone git://github.com/zsh-users/zsh-syntax-highlighting.git
+        git clone git://github.com/ishare/zsh-syntax-highlighting.git
 
 * Activate the plugin in `~/.zshrc` (in **last** position):
 
