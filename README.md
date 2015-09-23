@@ -5,6 +5,8 @@ zsh-syntax-highlighting
 
 *Requirements: zsh 4.3.17+.*
 
+*Fork Changes: remove underline for path*
+
 
 How to install
 --------------
